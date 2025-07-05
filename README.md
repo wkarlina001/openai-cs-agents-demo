@@ -28,20 +28,16 @@ You can also follow [these instructions](https://platform.openai.com/docs/librar
 Alternatively, you can set the `OPENAI_API_KEY` environment variable in an `.env` file at the root of the `python-backend` folder. You will need to install the `python-dotenv` package to load the environment variables from the `.env` file.
 
 ### Install dependencies
-Application was tested on python version 3.9.13
-
-Install the dependencies for the backend by running the following commands:
+1. For the backend:
+Setup conda environment and install the required dependencies
 
 ```bash
-cd python-backend
-python -m venv .venv
-source .venv/bin/activate
-pip install --upgrade pip setuptools
-pip install --only-binary :all: greenlet
+conda create --name py39 python=3.9
+conda activate py39
 pip install -r requirements.txt
 ```
 
-For the UI, you can run:
+2. For the UI:
 
 ```bash
 cd ui
