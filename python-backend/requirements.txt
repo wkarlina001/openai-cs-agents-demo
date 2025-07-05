@@ -2,3 +2,16 @@ openai-agents
 pydantic
 fastapi
 uvicorn
+langchain
+langchain-openai
+langchain-community
+numpy<2
+chromadb
+sentence_transformers
+eval_type_backport
+streamlit
+pypdf
+# pip install --only-binary :all: greenlet
+# pip3 install --upgrade pip
+# pip3 install --upgrade setuptools
+# # for chromadb

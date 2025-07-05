@@ -1,0 +1,25 @@
+# General Configuration
+MY_MODEL: gpt-4.1-nano
+
+# ChromaDB Configuration
+CHROMA_RECO_PATH: chromadb/chroma_reco_db
+RECO_COLLECTION_NAME: documents_hf
+CHROMA_RAG_PATH: chromadb/chroma_rag_db_chunked_docs
+RAG_COLLECTION_NAME: documents_hf_rag
+EMBEDDING_MODEL_NAME: all-MiniLM-L6-v2
+
+# Document Paths
+TELCO_PLAN_DOCUMENT_PATH: data/telco_plan.json
+KNOWLEDGE_BASE_DOCUMENT_PATH: data/knowledge_base_doc.pdf
+
+# LLM Configuration
+LLM_TEMPERATURE: 0.0
+
+# RAG Specifics
+RAG_CHUNK_SIZE: 500
+RAG_CHUNK_OVERLAP: 20
+RAG_TOP_K: 3
+
+# Recommendation Specifics
+RECO_TOP_N: 3
+

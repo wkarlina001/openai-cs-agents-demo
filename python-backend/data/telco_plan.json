@@ -1,0 +1,1004 @@
+{
+  "Postpaid Mobile Plan": [
+    {
+      "productName": "5G Ultimate Unlimited Plan",
+      "productDescription": "Experience boundless connectivity with unlimited 5G data and calls, plus 1000 SMS, Perfect for heavy users and streaming enthusiasts, Speeds up to 1 Gbps, SGD 68/month, Contract: 24 months",
+      "price_per_month_sgd": 68.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Family SharePostpaid",
+      "productDescription": "Share 150GB data, 1500 minutes talk time, and 1000 SMS across up to 5 family members, Centralized billing and easy management via app, Speeds up to 500 Mbps, SGD 98/month, Contract: 24 months",
+      "price_per_month_sgd": 98.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Youth Mobile Freedom Plan",
+      "productDescription": "Designed for students, includes 30GB data, unlimited social media, and free calls to 3 nominated numbers, Age restrictions apply, Speeds up to 500 Mbps, SGD 28/month, Contract: 12 months",
+      "price_per_month_sgd": 28.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "5G+ Priority Phone Plan",
+      "productDescription": "Experience priority network access on 5G+, bundled with a new flagship phone and exclusive perks, Includes unlimited 5G data, Speeds up to 1,5 Gbps, SGD 118/month (excluding device cost), Contract: 24 months",
+      "price_per_month_sgd": 118.0,
+      "speed": "15.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Student Mobile Pack",
+      "productDescription": "Value-packed mobile plan for students, including 25GB data for e-learning platforms, 300 local calls, and student discounts, Speeds up to 500 Mbps, SGD 22/month, Contract: 12 months",
+      "price_per_month_sgd": 22.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Mobile Data Max",
+      "productDescription": "High-tier postpaid mobile plan offering 200GB of local data with unlimited calls and SMS, perfect for high-usage individuals, Speeds up to 1 Gbps, SGD 88/month, Contract: 24 months",
+      "price_per_month_sgd": 88.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Unlimited Local Calls",
+      "productDescription": "Add-on for postpaid plans, providing unlimited local calls to any network without additional per-minute charges, Speeds based on your main plan, SGD 10/month, Contract: 12 months",
+      "price_per_month_sgd": 10.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid International Add-on",
+      "productDescription": "Add-on for postpaid plans providing discounted international call rates and SMS bundles to frequently called countries, Speeds based on your main plan, SGD 15/month, Contract: 12 months",
+      "price_per_month_sgd": 15.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Roaming Boost",
+      "productDescription": "Temporary roaming data and call boost for postpaid users traveling internationally, Available as a daily or weekly add-on, Speeds vary by region, starting from SGD 12/day, Contract: Flexible (daily/weekly)",
+      "price_per_month_sgd": 12.0,
+      "speed": "Vary",
+      "contract_period": "Flexible (daily/weekly)"
+    },
+    {
+      "productName": "Postpaid Device Bundle Pro",
+      "productDescription": "Postpaid plan bundled with a flagship smartphone, offering significant discounts and flexible payment options over 24 months, Includes 100GB data, speeds up to 1 Gbps, starting from SGD 78/month (excluding device installment), Contract: 24 months",
+      "price_per_month_sgd": 78.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Roam Data Saver",
+      "productDescription": "Cost-effective roaming data add-on for postpaid plans, allowing users to control roaming expenses with a fixed 5GB data allowance, Speeds vary by region, SGD 25/month, Contract: 12 months",
+      "price_per_month_sgd": 25.0,
+      "speed": "Vary",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Corporate Flex",
+      "productDescription": "Flexible postpaid mobile plan for corporate clients, offering customizable data (e,g,, 50GB), calls, and international roaming options, Speeds up to 1 Gbps, starting from SGD 45/month, Contract: Flexible (e,g,, 12/24 months)",
+      "price_per_month_sgd": 45.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "Flexible (e,g,, 12/24 months)"
+    },
+    {
+      "productName": "Postpaid Data Sharing Add-on",
+      "productDescription": "Allows postpaid users to share their main data bundle (e,g,, 20GB) with other linked lines or devices, Speeds based on your main plan, SGD 5/month per line, Contract: 12 months",
+      "price_per_month_sgd": 5.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Device Protection",
+      "productDescription": "Optional add-on for postpaid phone plans, providing insurance and protection against device damage or theft, Speeds based on your main plan, SGD 8/month, Contract: Monthly",
+      "price_per_month_sgd": 8.0,
+      "speed": null,
+      "contract_period": "Monthly"
+    },
+    {
+      "productName": "Postpaid eSIM Ready Plan",
+      "productDescription": "Postpaid plan compatible with eSIM, offering digital activation and flexible device switching without a physical SIM card, Includes 40GB data, speeds up to 1 Gbps, SGD 35/month, Contract: 12 months",
+      "price_per_month_sgd": 35.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Data Roam Multi-Zone",
+      "productDescription": "Roaming add-on for postpaid plans covering multiple international zones, simplifying roaming management for frequent global travelers, Includes 10GB data, speeds vary, SGD 50/month, Contract: 12 months",
+      "price_per_month_sgd": 50.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid VIP Service Plan",
+      "productDescription": "Exclusive postpaid plan offering priority customer service, dedicated account manager, and premium network access, Includes unlimited 5G data, speeds up to 2 Gbps, SGD 150/month, Contract: 24 months",
+      "price_per_month_sgd": 150.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Family Data Pool",
+      "productDescription": "Postpaid plan allowing multiple family lines to share a large pool of 300GB data, unlimited calls, and SMS, Speeds up to 1 Gbps, SGD 120/month, Contract: 24 months",
+      "price_per_month_sgd": 120.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Traveller's Choice",
+      "productDescription": "Postpaid plan with flexible roaming options, allowing users to select daily or weekly data passes based on their travel needs, Includes 50GB local data, speeds up to 1 Gbps, SGD 55/month (roaming passes extra), Contract: 12 months",
+      "price_per_month_sgd": 55.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Data Saver Plan",
+      "productDescription": "Postpaid plan with lower 10GB data allowance but competitive call and SMS rates, designed for users who prioritize voice communication, Speeds up to 500 Mbps, SGD 25/month, Contract: 12 months",
+      "price_per_month_sgd": 25.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Loyalty Rewards Plan",
+      "productDescription": "Postpaid plan offering exclusive loyalty bonuses, discounted upgrades, and priority access to new services for long-term customers, Includes 60GB data, speeds up to 1 Gbps, SGD 70/month, Contract: 24 months",
+      "price_per_month_sgd": 70.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Digital Nomads Plan",
+      "productDescription": "Postpaid plan designed for digital nomads, featuring global 20GB roaming data bundles, 200 international call minutes, and flexible contract terms, Speeds up to 1 Gbps, SGD 90/month, Contract: Flexible (monthly/quarterly)",
+      "price_per_month_sgd": 90.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "Flexible (monthly/quarterly)"
+    },
+    {
+      "productName": "Postpaid Shareable Data Plan",
+      "productDescription": "Postpaid plan allowing multiple family lines to share a large 100GB data, 800 minutes talk time, and 500 SMS bundle, Speeds up to 1 Gbps, SGD 85/month, Contract: 24 months",
+      "price_per_month_sgd": 85.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Entertainment Bundle",
+      "productDescription": "Postpaid plan integrated with premium entertainment services like streaming platforms, TV packs, and exclusive content access, Includes unlimited data, speeds up to 1 Gbps, SGD 75/month, Contract: 24 months",
+      "price_per_month_sgd": 75.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Postpaid Value Pack",
+      "productDescription": "Postpaid plan offering excellent value with a balanced mix of 40GB data, 500 calls, and 500 SMS at a competitive monthly price, Speeds up to 1 Gbps, SGD 38/month, Contract: 12 months",
+      "price_per_month_sgd": 38.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Senior Special",
+      "productDescription": "Postpaid plan designed for seniors, offering simplified features, larger font support, and special discounts, Includes 10GB data, 300 calls, speeds up to 500 Mbps, SGD 20/month, Contract: 12 months",
+      "price_per_month_sgd": 20.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Postpaid Data Only Tablet Plan",
+      "productDescription": "Postpaid plan specifically for tablets or secondary devices, providing a large 80GB data allowance with no calls or SMS, Speeds up to 1 Gbps, SGD 25/month, Contract: Monthly",
+      "price_per_month_sgd": 25.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "Monthly"
+    },
+    {
+      "productName": "Postpaid Traveler's Companion",
+      "productDescription": "Postpaid plan featuring built-in global 15GB roaming data, 100 international calls, and travel insurance for frequent international travelers, Speeds up to 1 Gbps, SGD 100/month, Contract: 24 months",
+      "price_per_month_sgd": 100.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    }
+  ],
+  "Home Broadband Plan": [
+    {
+      "productName": "Home Fibre Gigapro",
+      "productDescription": "Blazing-fast 1 Gbps fibre broadband for your home, ideal for multiple devices, 4K streaming, and online gaming without lag, SGD 45/month, Contract: 24 months",
+      "price_per_month_sgd": 45.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Multi-Gig Broadband Xtreme",
+      "productDescription": "Experience 2 Gbps fibre broadband with next-gen WiFi 7 router, Perfect for power users and smart homes with high demands, SGD 80/month, Contract: 24 months",
+      "price_per_month_sgd": 80.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Gaming Fibre Boost",
+      "productDescription": "Optimized broadband plan for online gamers, Low latency, stable connection, and priority bandwidth for a competitive edge, Speeds up to 1 Gbps, SGD 55/month, Contract: 24 months",
+      "price_per_month_sgd": 55.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Content Creator Fibre Pro",
+      "productDescription": "Ultra-fast upload and download speeds (2 Gbps symmetrical), specifically designed for content creators, streamers, and video editors working from home, SGD 95/month, Contract: 24 months",
+      "price_per_month_sgd": 95.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "AR/VR Fibre Optimize",
+      "productDescription": "Broadband plan optimized for Augmented Reality and Virtual Reality experiences, Ultra-low latency and high bandwidth (1,5 Gbps) for seamless immersion, SGD 70/month, Contract: 24 months",
+      "price_per_month_sgd": 70.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Gaming Hub",
+      "productDescription": "Centralized home gaming network hub with optimized routing, QoS, and dedicated gaming servers for the best online gaming experience, Includes 1 Gbps Fibre, SGD 60/month, Contract: 24 months",
+      "price_per_month_sgd": 60.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Optic for Rural Areas",
+      "productDescription": "High-speed fibre broadband expansion to rural and underserved areas, bridging the digital divide, Speeds up to 500 Mbps, SGD 35/month, Contract: 12 months",
+      "price_per_month_sgd": 35.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Senior Broadband Connect",
+      "productDescription": "Simplified broadband plan for seniors, easy setup, reliable connection, and dedicated support for basic internet needs, Speeds up to 300 Mbps, SGD 30/month, Contract: 12 months",
+      "price_per_month_sgd": 30.0,
+      "speed": "300.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "5G Home Broadband",
+      "productDescription": "Wireless 5G broadband for homes, offering ultra-fast speeds (up to 500 Mbps) without the need for fibre installation, Easy plug-and-play setup, SGD 50/month, Contract: 12 months",
+      "price_per_month_sgd": 50.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Fibre Broadband Eco-Plan",
+      "productDescription": "Environmentally friendly broadband plan with energy-efficient router and digital-only billing, Contribute to a greener future, Speeds up to 1 Gbps, SGD 42/month, Contract: 24 months",
+      "price_per_month_sgd": 42.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home WiFi Mesh System",
+      "productDescription": "Eliminate WiFi dead zones with a whole-home mesh system, Seamless connectivity and easy setup for large homes, Includes 1 Gbps Fibre, SGD 75/month, Contract: 24 months",
+      "price_per_month_sgd": 75.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Business Lite",
+      "productDescription": "Economical fibre broadband plan for small businesses, providing reliable internet for essential operations, Speeds up to 500 Mbps, SGD 60/month, Contract: 24 months",
+      "price_per_month_sgd": 60.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Hybrid Work",
+      "productDescription": "Broadband plan designed for hybrid work models, balancing high speeds (1 Gbps) for work with entertainment needs for personal use, SGD 58/month, Contract: 24 months",
+      "price_per_month_sgd": 58.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Remote Work",
+      "productDescription": "Broadband plan optimized for remote workers, ensuring stable video calls, fast file transfers, and secure connectivity, Speeds up to 1,5 Gbps, SGD 70/month, Contract: 24 months",
+      "price_per_month_sgd": 70.0,
+      "speed": "15.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Family Broadband Ultra",
+      "productDescription": "Premium home broadband plan with 2,5 Gbps speed, designed for large families with multiple simultaneous users and smart devices, SGD 110/month, Contract: 24 months",
+      "price_per_month_sgd": 110.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Lite",
+      "productDescription": "Economical 500 Mbps fibre broadband plan, suitable for small households with basic internet needs like browsing and light streaming, SGD 38/month, Contract: 12 months",
+      "price_per_month_sgd": 38.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Home Mesh WiFi Pro",
+      "productDescription": "Advanced mesh WiFi system for large homes, ensuring seamless coverage and high-speed internet in every corner, Includes 2 Gbps Fibre, SGD 90/month, Contract: 24 months",
+      "price_per_month_sgd": 90.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Gaming XL",
+      "productDescription": "Ultimate gaming broadband plan with 3 Gbps speed, ultra-low latency, and dedicated gaming servers for competitive online play, SGD 120/month, Contract: 24 months",
+      "price_per_month_sgd": 120.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Office Broadband Plus",
+      "productDescription": "Dedicated broadband plan for home office users, featuring enhanced upload speeds and stable connection (1 Gbps), and VPN support, SGD 65/month, Contract: 24 months",
+      "price_per_month_sgd": 65.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Value-Plus",
+      "productDescription": "Cost-effective 700 Mbps fibre broadband plan with unlimited data, suitable for standard home usage and streaming, SGD 40/month, Contract: 24 months",
+      "price_per_month_sgd": 40.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Security Broadband",
+      "productDescription": "Broadband plan bundled with basic home security features, including a smart hub, motion sensor, and remote monitoring capabilities, Includes 1 Gbps Fibre, SGD 85/month, Contract: 24 months",
+      "price_per_month_sgd": 85.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Power User",
+      "productDescription": "High-performance 1,5 Gbps fibre broadband plan for demanding users, including advanced QoS features and dedicated support, SGD 80/month, Contract: 24 months",
+      "price_per_month_sgd": 80.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Entertainment Fibre",
+      "productDescription": "Fibre broadband plan optimized for entertainment, ensuring smooth 4K streaming, online gaming, and multi-device connectivity, Speeds up to 1 Gbps, SGD 50/month, Contract: 24 months",
+      "price_per_month_sgd": 50.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Smart Home Ready",
+      "productDescription": "Broadband plan designed for smart homes, ensuring stable connection for numerous IoT devices and smart appliances, Speeds up to 1 Gbps, SGD 60/month, Contract: 24 months",
+      "price_per_month_sgd": 60.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Business Fibre",
+      "productDescription": "Business-grade fibre broadband for home-based businesses, offering symmetrical speeds (1 Gbps), static IP, and priority support, SGD 75/month, Contract: 24 months",
+      "price_per_month_sgd": 75.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Rural Access",
+      "productDescription": "Affordable fibre broadband for rural areas, bridging the connectivity gap with reliable internet access, Speeds up to 300 Mbps, SGD 30/month, Contract: 12 months",
+      "price_per_month_sgd": 30.0,
+      "speed": "300.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Home Office Security Bundle",
+      "productDescription": "Broadband plan combined with cybersecurity tools and VPN for secure remote work and data protection, Includes 1 Gbps Fibre, SGD 95/month, Contract: 24 months",
+      "price_per_month_sgd": 95.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Smart Business",
+      "productDescription": "High-speed fibre broadband with features like static IP, cloud integration, and priority business support for smart offices, Speeds up to 2 Gbps, SGD 110/month, Contract: 24 months",
+      "price_per_month_sgd": 110.0,
+      "speed": "2.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Gaming Basic",
+      "productDescription": "Entry-level broadband plan optimized for casual online gaming with stable speeds (500 Mbps) and low latency, SGD 40/month, Contract: 12 months",
+      "price_per_month_sgd": 40.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Fibre Broadband Streamer Pro",
+      "productDescription": "Broadband plan with optimized bandwidth for high-quality video streaming across multiple devices, ideal for avid streamers, Speeds up to 1,5 Gbps, SGD 70/month, Contract: 24 months",
+      "price_per_month_sgd": 70.0,
+      "speed": "15.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home WiFi Extender Bundle",
+      "productDescription": "Fibre broadband plan bundled with WiFi extenders to boost coverage and eliminate dead spots in larger homes, Includes 1 Gbps Fibre, SGD 55/month, Contract: 24 months",
+      "price_per_month_sgd": 55.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Small Business",
+      "productDescription": "Reliable and cost-effective fibre broadband for small businesses, ensuring stable internet for daily operations, Speeds up to 700 Mbps, SGD 65/month, Contract: 24 months",
+      "price_per_month_sgd": 65.0,
+      "speed": "700.0 Mbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Entertainment Streamer",
+      "productDescription": "Broadband plan optimized for video streaming services, ensuring buffer-free 4K content on demand, Speeds up to 1 Gbps, SGD 50/month, Contract: 24 months",
+      "price_per_month_sgd": 50.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Ultra-Low Latency",
+      "productDescription": "Specialized fibre broadband plan designed for applications requiring extremely low latency, such as high-frequency trading or cloud gaming, Speeds up to 2,5 Gbps, SGD 100/month, Contract: 24 months",
+      "price_per_month_sgd": 100.0,
+      "speed": "25.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Plus",
+      "productDescription": "Mid-tier home broadband plan offering enhanced speeds (700 Mbps) and stability for active online households, SGD 48/month, Contract: 24 months",
+      "price_per_month_sgd": 48.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Basic Connect",
+      "productDescription": "Entry-level fibre broadband plan providing reliable internet for fundamental online activities like email and browsing, Speeds up to 300 Mbps, SGD 33/month, Contract: 12 months",
+      "price_per_month_sgd": 33.0,
+      "speed": "300.0 Mbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Home Broadband Secure Gateway",
+      "productDescription": "Broadband plan bundled with an advanced security gateway, providing robust protection against cyber threats for the home network, Includes 1 Gbps Fibre, SGD 80/month, Contract: 24 months",
+      "price_per_month_sgd": 80.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Hybrid Gaming",
+      "productDescription": "Broadband plan balancing high speeds (1 Gbps) for daily use with optimization features for casual and competitive gaming, SGD 62/month, Contract: 24 months",
+      "price_per_month_sgd": 62.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Student Pack",
+      "productDescription": "Affordable broadband plan for students, offering sufficient speed (500 Mbps) for online learning, streaming, and social media, SGD 35/month, Contract: 12 months",
+      "price_per_month_sgd": 35.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Fibre Broadband 500 Mbps",
+      "productDescription": "Reliable 500 Mbps fibre broadband plan, suitable for standard home use, online browsing, and HD streaming, SGD 38/month, Contract: 24 months",
+      "price_per_month_sgd": 38.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Backup Link",
+      "productDescription": "Broadband plan offering a secondary, lower-speed (50 Mbps) connection as a backup in case of primary line disruption, ensuring continuous connectivity, SGD 20/month (as add-on), Contract: 12 months",
+      "price_per_month_sgd": 20.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Fibre Broadband Pro Gamer",
+      "productDescription": "Elite fibre broadband for professional gamers, featuring dedicated fiber lines, guaranteed bandwidth (5 Gbps), and professional-grade support, SGD 150/month, Contract: 24 months",
+      "price_per_month_sgd": 150.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Family Plus",
+      "productDescription": "Enhanced home broadband plan for active families, providing higher speeds (1,5 Gbps) and stable connection for multiple users and devices, SGD 78/month, Contract: 24 months",
+      "price_per_month_sgd": 78.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Fast Connect",
+      "productDescription": "Quick and easy fibre broadband setup for immediate internet access, Speeds up to 1 Gbps, SGD 45/month, Contract: 12 months",
+      "price_per_month_sgd": 45.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Home Broadband Security Enhanced",
+      "productDescription": "Broadband plan with advanced security features, including intrusion detection, VPN, and secure DNS for enhanced home network protection, Includes 1,5 Gbps Fibre, SGD 105/month, Contract: 24 months",
+      "price_per_month_sgd": 105.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Home Office Pro",
+      "productDescription": "Premium fibre broadband for home offices, offering dedicated bandwidth, symmetrical speeds (2 Gbps), and advanced network stability for demanding work, SGD 120/month, Contract: 24 months",
+      "price_per_month_sgd": 120.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Basic Plus",
+      "productDescription": "Upgraded entry-level home broadband plan with slightly higher speeds (400 Mbps) and improved reliability compared to the most basic option, SGD 35/month, Contract: 12 months",
+      "price_per_month_sgd": 35.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Fibre Broadband Home Server Ready",
+      "productDescription": "Broadband plan optimized for home server setups, with high upload speeds (1 Gbps symmetrical), stable connection, and port forwarding support, SGD 90/month, Contract: 24 months",
+      "price_per_month_sgd": 90.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Unlimited Data",
+      "productDescription": "Fibre broadband plan offering truly unlimited data without fair usage policies, ideal for very heavy downloaders and streamers, Speeds up to 1 Gbps, SGD 50/month, Contract: 24 months",
+      "price_per_month_sgd": 50.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Smart Home Premium",
+      "productDescription": "Top-tier fibre broadband for smart homes, offering dedicated bandwidth for IoT devices, priority support, and advanced smart home integration, Speeds up to 2,5 Gbps, SGD 130/month, Contract: 24 months",
+      "price_per_month_sgd": 130.0,
+      "speed": "25.0 Gbps",
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Voice Bundle",
+      "productDescription": "Fibre broadband plan (1 Gbps) bundled with a home voice line, offering unlimited local calls and competitive international call rates, SGD 55/month, Contract: 24 months",
+      "price_per_month_sgd": 55.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Security Pro",
+      "productDescription": "Advanced fibre broadband plan (2 Gbps) with integrated enterprise-grade security features, including advanced threat protection and VPN services for home use, SGD 125/month, Contract: 24 months",
+      "price_per_month_sgd": 125.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Family Bundle",
+      "productDescription": "Comprehensive fibre broadband plan for families, including robust speeds (1,5 Gbps), mesh WiFi options, and parental control features, SGD 90/month, Contract: 24 months",
+      "price_per_month_sgd": 90.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Entertainment Pack",
+      "productDescription": "Fibre broadband plan (1 Gbps) bundled with premium streaming service subscriptions and optimized for high-quality entertainment consumption, SGD 65/month, Contract: 24 months",
+      "price_per_month_sgd": 65.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Student Special",
+      "productDescription": "Affordable fibre broadband plan for students (500 Mbps), including enough speed for online classes, research, and entertainment, SGD 35/month, Contract: 12 months",
+      "price_per_month_sgd": 35.0,
+      "speed": null,
+      "contract_period": "12 months"
+    },
+    {
+      "productName": "Fibre Broadband Dedicated Gaming",
+      "productDescription": "High-tier fibre broadband plan (3 Gbps) exclusively for competitive gamers, offering dedicated fiber lines, guaranteed bandwidth, and professional-grade support, SGD 140/month, Contract: 24 months",
+      "price_per_month_sgd": 140.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Home Broadband Smart TV Bundle",
+      "productDescription": "Fibre broadband plan (1 Gbps) bundled with a smart TV and optimized for streaming, providing a complete entertainment solution, SGD 75/month (excluding TV cost), Contract: 24 months",
+      "price_per_month_sgd": 75.0,
+      "speed": null,
+      "contract_period": "24 months"
+    },
+    {
+      "productName": "Fibre Broadband Work-From-Home",
+      "productDescription": "Fibre broadband plan (1,5 Gbps) tailored for remote work, ensuring stable and fast connection for video conferences, cloud applications, and large file transfers, SGD 85/month, Contract: 24 months",
+      "price_per_month_sgd": 85.0,
+      "speed": null,
+      "contract_period": "24 months"
+    }
+  ],
+  "Prepaid Mobile Plan": [
+    {
+      "productName": "Prepaid Power 50GB",
+      "productDescription": "Get 50GB high-speed data, 500 local minutes, and 100 SMS, valid for 30 days, No contract, ultimate flexibility, Speeds up to 500 Mbps, SGD 25, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 25.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Tourist SIM",
+      "productDescription": "Essential connectivity for visitors to Singapore, Includes 100GB data, 500 local calls, and 100 SMS, Valid for 7 days, Speeds up to 1 Gbps, SGD 18, Contract: No contract (7-day validity)",
+      "price_per_month_sgd": 18.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (7-day validity)"
+    },
+    {
+      "productName": "Prepaid Unlimited Weekend",
+      "productDescription": "Unlimited data and calls on weekends for prepaid users, Stay connected with friends and family during your free time, Speeds up to 1 Gbps (weekend), SGD 15/month, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 15.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Data Booster 10GB",
+      "productDescription": "Add 10GB high-speed data to your existing prepaid plan, Perfect for unexpected data needs, Speeds up to 1 Gbps, SGD 10, Contract: No contract (7-day validity)",
+      "price_per_month_sgd": 10.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (7-day validity)"
+    },
+    {
+      "productName": "Prepaid Youth Starter Pack",
+      "productDescription": "Affordable prepaid starter pack for young users, includes 15GB data, 100 calls, and free messaging apps, Speeds up to 500 Mbps, SGD 12, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 12.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Data & Social Pack",
+      "productDescription": "Prepaid plan with extra 20GB data for social media apps (Facebook, Instagram, WhatsApp) and a base 5GB data bundle, Speeds up to 1 Gbps, SGD 18, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 18.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Long-Validity Plan",
+      "productDescription": "Prepaid plan with extended validity (e,g,, 90 days), includes 20GB data, 200 calls, and 100 SMS, Speeds up to 500 Mbps, SGD 40, Contract: No contract (90-day validity)",
+      "price_per_month_sgd": 40.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract (90-day validity)"
+    },
+    {
+      "productName": "Prepaid Unlimited Calls",
+      "productDescription": "Prepaid add-on providing unlimited local calls to any network, ideal for heavy talkers, Speeds based on your main plan, SGD 8, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 8.0,
+      "speed": null,
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Flexi-Talk Bundle",
+      "productDescription": "Flexible prepaid add-on for calls, allowing customization of talk time bundles (e,g,, 100 minutes) for specific needs, Valid for 7 days, Speeds based on your main plan, SGD 5, Contract: No contract (7-day validity)",
+      "price_per_month_sgd": 5.0,
+      "speed": null,
+      "contract_period": "No contract (7-day validity)"
+    },
+    {
+      "productName": "Prepaid Data Only 20GB",
+      "productDescription": "Prepaid plan exclusively for data users, offering 20GB high-speed data with no calls or SMS, Ideal for tablets and dongles, Speeds up to 1 Gbps, SGD 15, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 15.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Social Media Pack",
+      "productDescription": "Unlimited data for popular social media apps like Facebook, Instagram, TikTok, for prepaid users, Does not include other data, Speeds up to 1 Gbps, SGD 12, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 12.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Combo Saver",
+      "productDescription": "All-in-one prepaid bundle with 10GB data, 100 calls, and 50 SMS at a discounted rate, Various sizes available, Speeds up to 500 Mbps, SGD 10, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 10.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Weekend Unlimited",
+      "productDescription": "Unlimited data on weekends only for prepaid users, perfect for streaming and social media during leisure time, Speeds up to 1 Gbps (weekend), SGD 15, Contract: No contract (7-day validity)",
+      "price_per_month_sgd": 15.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (7-day validity)"
+    },
+    {
+      "productName": "Prepaid International Call Add-on",
+      "productDescription": "Add 50 international calling minutes to specific countries for prepaid plans, Various denominations available, Speeds based on your main plan, SGD 7, Contract: No contract (7-day validity)",
+      "price_per_month_sgd": 7.0,
+      "speed": null,
+      "contract_period": "No contract (7-day validity)"
+    },
+    {
+      "productName": "Prepaid Talk-Only Plan",
+      "productDescription": "Prepaid plan exclusively for 200 calls and 100 SMS, with minimal 1GB data, Ideal for users who primarily use voice communication, Speeds up to 100 Mbps, SGD 8, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 8.0,
+      "speed": "100.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid SMS Power Pack",
+      "productDescription": "Add-on for prepaid plans providing a large bundle of 500 local and 100 international SMS for frequent texters, Speeds based on your main plan, SGD 6, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 6.0,
+      "speed": null,
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Data + Voice Combo",
+      "productDescription": "Balanced prepaid bundle offering a good mix of 15GB data and 200 minutes talk time for everyday use, Speeds up to 500 Mbps, SGD 16, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 16.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid International SMS Pack",
+      "productDescription": "Add-on for prepaid plans providing a bundle of 200 international SMS for communicating with contacts abroad, Speeds based on your main plan, SGD 4, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 4.0,
+      "speed": null,
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Voice Roaming Bundle",
+      "productDescription": "Prepaid add-on for 30 international voice calls while roaming, offering a fixed bundle of minutes to use overseas, Speeds vary by region, SGD 15, Contract: No contract ",
+      "price_per_month_sgd": 15.0,
+      "speed": "Vary",
+      "contract_period": "No contract "
+    },
+    {
+      "productName": "Prepaid Giga Data Pack",
+      "productDescription": "Large data top-up pack for prepaid users, offering a significant 50GB of high-speed data for a short period (30 days), Speeds up to 1 Gbps, SGD 28, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 28.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Talk & Text Pack",
+      "productDescription": "Prepaid bundle focusing on 150 local calls and 100 SMS, with minimal data, for users who prefer traditional communication, Speeds up to 100 Mbps, SGD 7, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 7.0,
+      "speed": "100.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Data Top-Up 5GB",
+      "productDescription": "Small data top-up pack for prepaid users, providing 5GB of high-speed data for short-term needs (7 days), Speeds up to 1 Gbps, SGD 6, Contract: No contract (7-day validity)",
+      "price_per_month_sgd": 6.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (7-day validity)"
+    },
+    {
+      "productName": "Prepaid Budget Data Plan",
+      "productDescription": "Most affordable prepaid plan with a limited 2GB data allowance, suitable for very light internet usage or emergencies, Speeds up to 100 Mbps, SGD 5, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 5.0,
+      "speed": "100.0 Mbps",
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid Data Top-Up Unlimited",
+      "productDescription": "Unlimited data top-up for prepaid plans, providing a fixed period (3 days) of unlimited high-speed data access, Speeds up to 1 Gbps, SGD 10, Contract: No contract (3-day validity)",
+      "price_per_month_sgd": 10.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (3-day validity)"
+    },
+    {
+      "productName": "Prepaid Talktime Booster",
+      "productDescription": "Add-on for prepaid plans to increase local talktime minutes by 100, suitable for users who make many calls, Speeds based on your main plan, SGD 3, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 3.0,
+      "speed": null,
+      "contract_period": "No contract (30-day validity)"
+    },
+    {
+      "productName": "Prepaid eSIM Travel Data",
+      "productDescription": "Prepaid eSIM specifically for travel, providing easy activation of data bundles (e,g,, 5GB for 7 days) in various countries without a physical SIM, Speeds vary by region, SGD 20, Contract: No contract ",
+      "price_per_month_sgd": 20.0,
+      "speed": "Vary",
+      "contract_period": "No contract "
+    },
+    {
+      "productName": "Prepaid International Roam Pack",
+      "productDescription": "Prepaid add-on for 1GB international roaming data and 10 calls, available for a wide range of countries and flexible durations (e,g,, 3 days), Speeds vary by region, SGD 18, Contract: No contract ",
+      "price_per_month_sgd": 18.0,
+      "speed": "Vary",
+      "contract_period": "No contract "
+    },
+    {
+      "productName": "Prepaid Data Saver Option",
+      "productDescription": "Prepaid feature that automatically reduces data speed to 1 Mbps after bundle exhaustion, preventing unexpected charges for over-usage, Speeds reduced, SGD 0 (feature), Contract: No contract",
+      "price_per_month_sgd": 0.0,
+      "speed": null,
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "Prepaid Roaming Voice Pack",
+      "productDescription": "Prepaid add-on providing a bundle of 50 international voice roaming minutes for selected countries, for crucial calls overseas, Speeds vary by region, SGD 22, Contract: No contract ",
+      "price_per_month_sgd": 22.0,
+      "speed": "Vary",
+      "contract_period": "No contract "
+    },
+    {
+      "productName": "Prepaid Unlimited Social Media",
+      "productDescription": "Prepaid add-on offering unlimited data for all major social media platforms (e,g,, Facebook, Instagram, WhatsApp), ideal for staying connected without worrying about data usage, Speeds up to 1 Gbps, SGD 10, Contract: No contract (30-day validity)",
+      "price_per_month_sgd": 10.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (30-day validity)"
+    }
+  ],
+  "SIM-Only Plan": [
+    {
+      "productName": "SIM-Only Value Plan",
+      "productDescription": "Affordable SIM-only plan with 20GB data, 300 minutes talk time, and 200 SMS, No contract, switch anytime, Speeds up to 500 Mbps, SGD 18/month, Contract: No contract",
+      "price_per_month_sgd": 18.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "Youth SIM-Only Creator",
+      "productDescription": "SIM-only plan tailored for young content creators, Large 60GB data, free streaming to popular platforms, and social media analytics tools, Speeds up to 1 Gbps, SGD 38/month, Contract: No contract",
+      "price_per_month_sgd": 38.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Roam Ready",
+      "productDescription": "SIM-only plan with built-in 5GB roaming data to popular destinations, Ideal for frequent travelers who want flexibility, Speeds up to 1 Gbps, SGD 25/month, Contract: No contract",
+      "price_per_month_sgd": 25.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Basic Call & Text",
+      "productDescription": "Essential SIM-only plan for basic call and text needs, Low 2GB data, ideal for light users or secondary lines, Speeds up to 100 Mbps, SGD 10/month, Contract: No contract",
+      "price_per_month_sgd": 10.0,
+      "speed": "100.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Data Only",
+      "productDescription": "SIM-only plan focused purely on 50GB data, with no bundled calls or SMS, Ideal for tablets, mobile hotspots, or data-centric users, Speeds up to 1 Gbps, SGD 20/month, Contract: No contract",
+      "price_per_month_sgd": 20.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Business Pro",
+      "productDescription": "Robust SIM-only plan tailored for business professionals, including large 80GB data, 50 international calls, and productivity app access, Speeds up to 1 Gbps, SGD 45/month, Contract: No contract",
+      "price_per_month_sgd": 45.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Student Edge",
+      "productDescription": "Student-exclusive SIM-only plan with affordable 30GB data, discounted international calls, and free access to academic resources, Speeds up to 500 Mbps, SGD 20/month, Contract: No contract",
+      "price_per_month_sgd": 20.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Flexi-Plan 50GB",
+      "productDescription": "Customizable SIM-only plan where users can adjust data, calls, and SMS bundles monthly, Starts with 50GB data, Speeds up to 1 Gbps, SGD 30/month, Contract: No contract",
+      "price_per_month_sgd": 30.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Senior Connect",
+      "productDescription": "Simplified SIM-only plan for seniors with essential 5GB data, 200 calls, and 100 SMS, easy top-ups, and priority customer support, Speeds up to 200 Mbps, SGD 15/month, Contract: No contract",
+      "price_per_month_sgd": 15.0,
+      "speed": "200.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Tourist Data Pack",
+      "productDescription": "Short-term SIM-only data plan for tourists visiting Singapore, providing generous 50GB data for navigation and communication, Valid for 14 days, Speeds up to 1 Gbps, SGD 22, Contract: No contract (14-day validity)",
+      "price_per_month_sgd": 22.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (14-day validity)"
+    },
+    {
+      "productName": "SIM-Only Data Rollover",
+      "productDescription": "SIM-only plan feature that allows unused data (up to 10GB) from the current month to be carried over to the next month's allowance, Speeds up to 1 Gbps, SGD 0 (feature), Contract: No contract",
+      "price_per_month_sgd": 0.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Family Link",
+      "productDescription": "SIM-only plan designed for family members, allowing data (e,g,, 10GB) and call sharing from a primary account, Easy to manage, Speeds based on primary, SGD 8/month per line, Contract: No contract",
+      "price_per_month_sgd": 8.0,
+      "speed": null,
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only No Contract Unlimited",
+      "productDescription": "Unlimited data SIM-only plan with no contract, offering maximum flexibility for users who don't want commitment, Speeds up to 1 Gbps, SGD 48/month, Contract: No contract",
+      "price_per_month_sgd": 48.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Roam-Free Asia",
+      "productDescription": "SIM-only plan with free 5GB data roaming in selected Asian countries, perfect for regional travelers, Speeds up to 1 Gbps, SGD 35/month, Contract: No contract",
+      "price_per_month_sgd": 35.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Unlimited Local Calls",
+      "productDescription": "SIM-only plan focusing on unlimited local calls and SMS, with a smaller 5GB data allowance, Ideal for heavy talkers, Speeds up to 500 Mbps, SGD 20/month, Contract: No contract",
+      "price_per_month_sgd": 20.0,
+      "speed": "500.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Data + Social Unlimited",
+      "productDescription": "SIM-only plan with unlimited data for social media apps and a generous 40GB data allowance for general usage, Speeds up to 1 Gbps, SGD 30/month, Contract: No contract",
+      "price_per_month_sgd": 30.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only International Calls",
+      "productDescription": "SIM-only plan with competitive rates for international calls (eg 100 minutes), ideal for users who frequently call overseas, Includes 20GB data, Speeds up to 1 Gbps, SGD 28/month, Contract: No contract",
+      "price_per_month_sgd": 28.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Basic Data Plan",
+      "productDescription": "Cost-effective SIM-only plan with a small 5GB data allowance, suitable for light internet users, Speeds up to 200 Mbps, SGD 12/month, Contract: No contract",
+      "price_per_month_sgd": 12.0,
+      "speed": "200.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Unlimited SMS",
+      "productDescription": "SIM-only plan primarily for unlimited local SMS, with minimal 1GB calls and 1GB data, Ideal for frequent texters, Speeds up to 100 Mbps, SGD 10/month, Contract: No contract",
+      "price_per_month_sgd": 10.0,
+      "speed": "100.0 Mbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Roam Plus Worldwide",
+      "productDescription": "SIM-only plan with included 10GB roaming data for a wide range of global destinations, catering to frequent international travelers, Speeds up to 1 Gbps, SGD 55/month, Contract: No contract",
+      "price_per_month_sgd": 55.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Weekend Unlimited",
+      "productDescription": "SIM-only plan offering unlimited data on weekends, perfect for streaming and heavy usage during leisure time, Speeds up to 1 Gbps (weekend), SGD 25/month, Contract: No contract",
+      "price_per_month_sgd": 25.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Hybrid Data Plan",
+      "productDescription": "SIM-only plan offering a mix of 20GB local data, 10GB social media data, and a small 2GB roaming allowance, catering to diverse usage, Speeds up to 1 Gbps, SGD 32/month, Contract: No contract",
+      "price_per_month_sgd": 32.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Device Upgrade Option",
+      "productDescription": "SIM-only plan that allows users to get discounts on new device purchases after a certain period, without locking into a traditional contract, Includes 50GB data, Speeds up to 1 Gbps, SGD 40/month, Contract: No contract (with device subsidy option)",
+      "price_per_month_sgd": 40.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract (with device subsidy option)"
+    },
+    {
+      "productName": "SIM-Only Custom Bundle",
+      "productDescription": "Highly customizable SIM-only plan where users can build their own mix of data, calls, and SMS to suit exact needs, Base includes 20GB, 200 calls, 100 SMS, Speeds up to 1 Gbps, starting from SGD 22/month, Contract: No contract",
+      "price_per_month_sgd": 22.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Pay-As-You-Go",
+      "productDescription": "Flexible SIM-only plan where users only pay for the data, calls, and SMS they consume, with no fixed monthly fee, Speeds vary, charges per usage, e,g,, SGD 0,01/MB, Contract: No contract",
+      "price_per_month_sgd": 1.0,
+      "speed": "Vary",
+      "contract_period": "No contract"
+    },
+    {
+      "productName": "SIM-Only Flexible Contract",
+      "productDescription": "SIM-only plan with a short (e,g,, 6-month) or flexible contract term, allowing users to adjust their plan or switch easily, Includes 30GB data, Speeds up to 1 Gbps, SGD 28/month, Contract: Flexible",
+      "price_per_month_sgd": 28.0,
+      "speed": "1.0 Gbps",
+      "contract_period": "Flexible"
+    }
+  ]
+}
