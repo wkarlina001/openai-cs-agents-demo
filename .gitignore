@@ -133,6 +133,3 @@ node_modules/
 # ui stuff
 ui/.next/
 
-# chromadb stuff
-chromadb/chroma_rag_db_chunked_docs/
-chromadb/chroma_reco_db/
