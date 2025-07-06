@@ -91,7 +91,7 @@ if not metrics_data:
     st.stop()
 
 analytics = analyze_metrics(metrics_data)
-print(analytics)
+# print(analytics)
 
 # --- Display Metrics ---
 

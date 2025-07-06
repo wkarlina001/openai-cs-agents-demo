@@ -134,6 +134,7 @@ async def faq_retrieval(context: RunContextWrapper[CSAgentContext], query: str) 
         
         ## logging ##
         if "sorry" not in answer.lower() and answer:
+            logger.info(f"FAQ Agent: Utilizing retrieved information for query: '{query}'") # Added log
             log_metric("retrieval_analytics", {
                 "conversation_id": context.context.account_number, # Or a more stable conversation ID
                 "type": "hit",
@@ -141,6 +142,7 @@ async def faq_retrieval(context: RunContextWrapper[CSAgentContext], query: str) 
                 "num_docs_retrieved": len(retrieved_docs)
             })
         else:
+            logger.info(f"FAQ Agent: No relevant document retrieved for query: '{query}'") # Added log
             log_metric("retrieval_analytics", {
                 "conversation_id": context.context.account_number,
                 "type": "miss",
